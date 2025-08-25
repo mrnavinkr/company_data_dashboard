@@ -4,4 +4,6 @@ matplotlib
 scikit-learn
 openpyxl
 plotly
+streamlit_option_menu
+
 
