@@ -32,3 +32,19 @@ The project contains:
 1. Clone the repository:
 ```bash
 git clone https://github.com/mrnavinkr/company_data_dashboard.git
+## 🌐 Live Dashboard
+You can view the live interactive dashboard here:  
+## 🌐 Live Dashboard
+You can view the live interactive dashboard here:  
+[**Open Dashboard on Streamlit**](https://companydash1navinkr.streamlit.app/)
+  
+
+*(Replace the above link with your actual deployed Streamlit app link)*
+
+---
+
+## 🎥 Project Output Video
+Watch the project in action:   
+[**Project Demo Video**]("C:\Users\hp\Videos\video_rec.mp4")
+
+
