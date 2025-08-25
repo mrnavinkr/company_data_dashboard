@@ -34,12 +34,7 @@ The project contains:
 git clone https://github.com/mrnavinkr/company_data_dashboard.git
 ## 🌐 Live Dashboard
 You can view the live interactive dashboard here:  
-## 🌐 Live Dashboard
-You can view the live interactive dashboard here:  
-  
 [**Open Dashboard on Streamlit**](https://companydash1navinkr.streamlit.app/)
-
-  
 
 *(Replace the above link with your actual deployed Streamlit app link)*
 
