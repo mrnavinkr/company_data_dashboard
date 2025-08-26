@@ -4,7 +4,6 @@
 **Department:** B.Tech Computer Science & Engineering  
 **College:** M.M. Engineering College, Mullana (Ambala)  
 **Project Type:** Mini Data Science Project  
-**Project Duration:** July–November 2025  
 
 ---
 
