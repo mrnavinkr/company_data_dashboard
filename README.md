@@ -23,7 +23,28 @@ The project contains:
 - `data/` - Contains the datasets used in the project  
 - `app.py` - Main Streamlit dashboard script  
 - `README.md` - Project description and instructions  
-- `.gitignore` - To ignore unnecessary files like `__pycache__/`, `.pyc`, `.venv` etc.  
+- `.gitignore` - To ignore unnecessary files like `__pycache__/`, `.pyc`, `.venv` etc.
+
+## 🔧 Tools & Technologies
+- Python 🐍  
+- Streamlit 🌐  
+- Pandas 📊  
+- NumPy 🔢  
+- Plotly 📈  
+- Streamlit-Option-Menu 🎛️  
+- Git & GitHub 🗂️  
+- Streamlit Community Cloud ☁️
+
+---
+
+## 📌 Features
+- Interactive Dashboard  
+- Data Visualization  
+- Cloud Deployment (Accessible Worldwide 🌎)  
+
+---
+
+⭐ **Don’t forget to check the Live App!**
 
 ---
 
